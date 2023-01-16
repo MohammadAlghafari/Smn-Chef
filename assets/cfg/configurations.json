@@ -1,0 +1,5 @@
+{
+  "base_url": "https://smnfood.app/",
+  "api_base_url": "https://smnfood.app/api/manager/",
+  "api_base_url_customer": "https://smnfood.app/api/"
+}

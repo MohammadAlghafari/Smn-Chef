@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95743380256",
+    "project_id": "smnfood-e8f47",
+    "storage_bucket": "smnfood-e8f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95743380256:android:74778519d4dc2a32266545",
+        "android_client_info": {
+          "package_name": "com.smn.smn_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95743380256-opt6cuoman4kjt6d721ikmloarbo7v51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_admin",
+            "certificate_hash": "c2a7fc0bc67e14bddb70c5311297fad0ae23e072"
+          }
+        },
+        {
+          "client_id": "95743380256-upimp3rc6dslc3vkebsiqceevddebmbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYC4EfTf-rKyrWIrKuHMrRDIQmo2h3xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95743380256-upimp3rc6dslc3vkebsiqceevddebmbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
